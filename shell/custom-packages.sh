@@ -27,7 +27,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-adguardhome"
 # VPN
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-tailscale luci-i18n-tailscale-zh-cn"
 # wireguard
-#CUSTOM_PACKAGES="$CUSTOM_PACKAGES wireguard-tools kmod-wireguard luci-proto-wireguard"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES wireguard-tools kmod-wireguard luci-proto-wireguard"
 # 分区扩容 by sirpdboy 
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-partexp luci-i18n-partexp-zh-cn"
 # 酷猫主题 by sirpdboy 
